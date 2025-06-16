@@ -15,13 +15,14 @@
 
 
 ## 🧱 프로젝트 구조
-  
+
+```
 BeRich/  
 ├── backend/ # Spring Boot API 서버  
 ├── frontend/ # React 기반 사용자 클라이언트  
 ├── .github/README.md # Organization 설정  
 └──   
-   
+```
 
 ## ⚙️ 기술 스택
 
